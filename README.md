@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Itai Morag</h1>
+<h1 align="center">Hi 👋, I'm Itay Morag</h1>
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
 
 - 🌱 I continue to learn and develop my skills in **React.js,Vue.js,Angular and JavaScript**
